@@ -1,8 +1,10 @@
-## CS 5670 - Intro to Computer Vision
+## Computer Vision Projects
 
-### Spring 2023
+### P_1 - Hough Transforms
 
-### Programming Assignment #1 - Hough Transforms
+We identify the edges around the given object and perform hough voting to determine the shapes of the object (lines in particular).
+
+On the image - "same" convolution is applied using a gaussian filter to remove the noise present in it. The gradient magnitude and orientation of the image is calculated to determine the distance between a given point in the image to a line in parameter space. Once this is done, hough voting is performed to determine the highest number of votes that belongs to a particular line equation to determine the line(s) present within the given image.
 
 ##### Example 1
 ![Example 1](./P_1/release/img.jpg)
@@ -24,7 +26,7 @@
 
 The detailed project description can be found [here](./P_1/release/writeup.pdf).
 
-### Programming Assignment #2 - Feature Detection and Matching  
+### P_2 - Feature Detection and Matching  
 
 ##### Inputs
 ||||
@@ -73,7 +75,7 @@ Distance functions implemented:
 The detailed project description can be found [here](./P_2/sp23_release/CS4_5670_PA2_WriteUp.pdf).
 
 
-### Programming Assignment #3 - Photometric and Plane Sweep Stereo
+### P_3 - Photometric and Plane Sweep Stereo
 
 #### 1. Photometric Stereo
 
