@@ -123,9 +123,9 @@ The results can be found [here](./P_3/CV-PA3-Outputs/part-3-depth-map-reconstruc
 
 The detailed project description can be found [here](./P_3/release/writeup.pdf).
 
-### Programming Assignment #4 - Convolutional Neural Networks (CNNs) for Image Classification
+### P_4 - Convolutional Neural Networks (CNNs) for Image Classification
 
 
-The write up results can be found [here](./P_4/results/Project4-WriteUp.pdf).
+The image classification results can be found [here](./P_4/results/Project4-WriteUp.pdf).
 
 The detailed project description can be found [here](./P_4/Release/PA4_prompt.pdf).
